@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Heyy, it's Hana, I like art and other nerdy stuff.
